@@ -1,10 +1,10 @@
 # Semantic Decoupling and Transfer Learning for Enhanced Small Object Detection
 
 
-**How to use**    
+# **How to use**    
 Just put these project's items in yolov7 and you're ready to go.  
 yolov7: https://github.com/WongKinYiu/yolov7
-
+***
 .<div align=center>![b828105ddc6d1919d0a7ca26a9a34cd](https://github.com/user-attachments/assets/ab36aab9-a708-41e9-bc62-08c78e70a98f)</div>
   
 .<div align=center>![56e6d30140568a035e7ab8b1278c2ac](https://github.com/user-attachments/assets/dc717c3c-371f-41a0-a4e8-35dcd1d1dd3b)</div>
