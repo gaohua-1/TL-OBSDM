@@ -5,7 +5,7 @@
 Just put these project's items in yolov7 and you're ready to go.  
 yolov7: https://github.com/WongKinYiu/yolov7
 
-![b828105ddc6d1919d0a7ca26a9a34cd](https://github.com/user-attachments/assets/ab36aab9-a708-41e9-bc62-08c78e70a98f)
+.<div align=center>< img src="URL" width="300" height="450" />![b828105ddc6d1919d0a7ca26a9a34cd](https://github.com/user-attachments/assets/ab36aab9-a708-41e9-bc62-08c78e70a98f)</div>
   
 ![56e6d30140568a035e7ab8b1278c2ac](https://github.com/user-attachments/assets/dc717c3c-371f-41a0-a4e8-35dcd1d1dd3b)
   
